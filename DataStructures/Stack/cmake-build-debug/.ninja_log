@@ -1,0 +1,19 @@
+# ninja log v5
+1	80	7009601045672771	CMakeFiles/Stack.dir/main.c.obj	c83fba6d6ba7ac
+82	192	7009601046744165	Stack.exe	aa01e3ad2f107d28
+2	61	7009601194639247	CMakeFiles/Stack.dir/main.c.obj	c83fba6d6ba7ac
+62	141	7009601195392764	Stack.exe	aa01e3ad2f107d28
+2	59	7009601573788911	CMakeFiles/Stack.dir/main.c.obj	c83fba6d6ba7ac
+60	132	7009601574485527	Stack.exe	aa01e3ad2f107d28
+1	62	7009601664346453	CMakeFiles/Stack.dir/main.c.obj	c83fba6d6ba7ac
+62	144	7009601665141325	Stack.exe	aa01e3ad2f107d28
+2	60	7009603159268454	CMakeFiles/Stack.dir/main.c.obj	c83fba6d6ba7ac
+61	132	7009603159957027	Stack.exe	aa01e3ad2f107d28
+2	59	7009603334180771	CMakeFiles/Stack.dir/main.c.obj	c83fba6d6ba7ac
+60	130	7009603334855265	Stack.exe	aa01e3ad2f107d28
+2	58	7009604241405993	CMakeFiles/Stack.dir/main.c.obj	c83fba6d6ba7ac
+58	131	7009604242112310	Stack.exe	aa01e3ad2f107d28
+1	57	7009604615945330	CMakeFiles/Stack.dir/main.c.obj	c83fba6d6ba7ac
+57	127	7009604616616790	Stack.exe	aa01e3ad2f107d28
+2	58	7009604720042138	CMakeFiles/Stack.dir/main.c.obj	c83fba6d6ba7ac
+59	131	7009604720756131	Stack.exe	aa01e3ad2f107d28
