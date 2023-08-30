@@ -1,7 +1,7 @@
 # Welcome To My Implementations
 
-You Can Find Lots Of **Data** **Structures** Implementation In My Repo.
+You can take a look to my **Data** **Structure** implementations and **Algorithms** in this repo.
 
-Also, My Repo Has Algorithms That Relative With Data Structures.
+
 
 ### It is still in work in progress
